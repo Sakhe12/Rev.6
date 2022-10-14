@@ -1,0 +1,8 @@
+.container {
+    background-color: bisque;
+    padding: 20px;
+    min-height: 200px;
+    width: 300px;
+    border: 20px solid orangered;
+    margin: 60px;
+}
